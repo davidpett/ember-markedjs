@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-marked'
+  name: 'ember-markedjs'
 };

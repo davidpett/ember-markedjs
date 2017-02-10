@@ -1,11 +1,11 @@
-# Ember-marked
+# ember-markedjs
 
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd ember-marked`
+* `cd ember-markedjs`
 * `npm install`
 * `bower install`
 
