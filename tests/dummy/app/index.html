@@ -9,8 +9,16 @@
 
     {{content-for "head"}}
 
-    <link rel="stylesheet" href="{{rootURL}}assets/vendor.css">
-    <link rel="stylesheet" href="{{rootURL}}assets/dummy.css">
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css"/>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/github.min.css">
+    <style media="screen">
+      a {
+        color: #357EDD;
+      }
+      a:hover, a:focus {
+        color: #96CCFF;
+      }
+    </style>
 
     {{content-for "head-footer"}}
   </head>
